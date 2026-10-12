@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Merhaba Ben Mehmet");
+
+            string sinemaAdi = "The Godfather";
         }
     }
 }
